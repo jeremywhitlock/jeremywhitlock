@@ -3,7 +3,7 @@
 
 
 
-I am a current 2nd Year CyberSecurity Student at the University of Cincinnati.
+I am a current 3rd Year CyberSecurity Student at the University of Cincinnati.
 
 ## Objective
 
